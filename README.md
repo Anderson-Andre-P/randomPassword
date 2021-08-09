@@ -7,8 +7,12 @@
 </h3>
 
 <p align="center">
-  Fiz o gerador de senhas seguindo um tutorial do Youtube. <a href="https://www.youtube.com/watch?v=fuukAV9Q1ek" target="__blank">Link</a>
+  Fiz o gerador de senhas seguindo um tutorial do Youtube. <a href="https://www.youtube.com/watch?v=fuukAV9Q1ek" target="__blank">Link do tutorial</a>
 </p>
+
+<h2 align="center">
+  <a href="https://anderson-andre-p.github.io/randomPassword/" target="__blank">Link do gerador de senhas</a>
+</h2>
 
 <h2 align="center">
   <img alt="Demo" title="#Clone" src="https://github.com/Anderson-Andre-P/randomPassword/blob/main/Demo.png">
@@ -17,6 +21,7 @@
 ### Features
 
 - [x] Feito sem frameworks
+- [x] Deploy <a href="https://anderson-andre-p.github.io/randomPassword/" target="__blank">Link</a>
 
 <p>
   O Gerador funciona em qualquer navegador moderno.
