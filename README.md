@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Demo" title="#Clone" src="./Demo.png">
+  <img alt="Demo" title="#Clone" src="https://github.com/Anderson-Andre-P/randomPassword/blob/main/Demo.png">
 </h2>
 
 ### Features
